@@ -1,0 +1,46 @@
+# depslib dependency file v1.0
+1496347414 source:e:\programacion ii\1-ejercicios en clase\12-\builde\main.cpp
+	"Comida.h"
+	<windows.h>
+	<iostream>
+
+1496348484 e:\programacion ii\1-ejercicios en clase\12-\builde\include\comida.h
+	<queue>
+	<iostream>
+
+1496347766 source:e:\programacion ii\1-ejercicios en clase\12-\builde\src\comida.cpp
+	"Comida.h"
+
+1496348260 source:e:\programacion ii\1-ejercicios en clase\12-\builde\src\comidabuilder.cpp
+	"ComidaBuilder.h"
+
+1496348170 e:\programacion ii\1-ejercicios en clase\12-\builde\include\comidabuilder.h
+	"Comida.h"
+
+1496719156 source:f:\programacion ii\1-ejercicios en clase\12-\builde\main.cpp
+	"Comida.h"
+	<windows.h>
+	"Chef.h"
+	<iostream>
+	"ComidaBuilder.h"
+
+1496713972 f:\programacion ii\1-ejercicios en clase\12-\builde\include\comida.h
+	<queue>
+	<iostream>
+	<sstream>
+
+1496714542 source:f:\programacion ii\1-ejercicios en clase\12-\builde\src\comida.cpp
+	"Comida.h"
+
+1496714128 source:f:\programacion ii\1-ejercicios en clase\12-\builde\src\comidabuilder.cpp
+	"ComidaBuilder.h"
+
+1496719068 f:\programacion ii\1-ejercicios en clase\12-\builde\include\comidabuilder.h
+	"Comida.h"
+
+1496719016 f:\programacion ii\1-ejercicios en clase\12-\builde\include\chef.h
+	"ComidaBuilder.h"
+
+1496719016 source:f:\programacion ii\1-ejercicios en clase\12-\builde\src\chef.cpp
+	"Chef.h"
+
